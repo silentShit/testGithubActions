@@ -7,6 +7,7 @@ public class demoTesting {
     public void aTest(){
 
     Assertions.assertTrue(true);
+    System.out.println("test");
 
     }
 }
